@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton Design Pattern", "Singleton Design Pattern\Singleton Design Pattern.csproj", "{2DD8C1AF-1456-468A-BD2C-4377ED9FD025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonProject", "SingletonProject\SingletonProject.csproj", "{C38FC233-8C4E-4016-B787-25B68DFA023A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DD8C1AF-1456-468A-BD2C-4377ED9FD025}.Debug|x86.ActiveCfg = Debug|x86
+		{2DD8C1AF-1456-468A-BD2C-4377ED9FD025}.Debug|x86.Build.0 = Debug|x86
+		{2DD8C1AF-1456-468A-BD2C-4377ED9FD025}.Release|x86.ActiveCfg = Release|x86
+		{2DD8C1AF-1456-468A-BD2C-4377ED9FD025}.Release|x86.Build.0 = Release|x86
+		{C38FC233-8C4E-4016-B787-25B68DFA023A}.Debug|x86.ActiveCfg = Debug|x86
+		{C38FC233-8C4E-4016-B787-25B68DFA023A}.Debug|x86.Build.0 = Debug|x86
+		{C38FC233-8C4E-4016-B787-25B68DFA023A}.Release|x86.ActiveCfg = Release|x86
+		{C38FC233-8C4E-4016-B787-25B68DFA023A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
